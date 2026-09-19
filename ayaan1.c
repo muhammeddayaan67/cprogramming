@@ -12,5 +12,5 @@ void main()
 }
 void demo()
 {
-    printf("the value of a =%d and b =%d",a,b);
+    printf("the value of a =%d and b =%d\n",a,b);
 }
